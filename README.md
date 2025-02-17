@@ -8,6 +8,9 @@ Dataset Link: https://bit.ly/3l1Fosz
 Dataset Source
 Kaggle: https://www.kaggle.com/ashaheedq/video-games-sales-2019
 
+The dataset contains a list of video games with sales, critics, and user score. There are 55,792
+records in the dataset as of April 12th, 2019. A scrape of vgchartz.com generated its include:
+
 
 Project Deliverable
 
@@ -33,3 +36,5 @@ Provide product and marketing recommendations.
 
 You will also be required to organize your Workbook into the following sheets, i.e., Raw data,
 clean data, Question 1, Question 2, ..., Question 5, Recommendations.
+
+
